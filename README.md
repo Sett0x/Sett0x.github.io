@@ -11,14 +11,18 @@ Problem deploying original repository with Github Pages solved minifying  the CS
 
 ### 🚀 Lighthouse Score:
 
-![TPerformance](/src/Perfomance.png)
+![Performance](/src/Perfomance.png)
 
 #### Steps to archive the  score of 100 in lighthouse
 (mainly following the suggestions of lighthouse)
 
-- Convert  all images to next-gen format (webp, svg, etc) to reduce the load, every kb counts!
+- Convert all images to next-gen format (webp, svg, etc) to reduce the load, every kb counts!
 - Ensure the accessibility with aria-label and headers order (h1, h2, h3, etc).
 - Use a proper color palette (easy to read).
 - Make sure there are no unused CSS rules or JavaScript code.
 - Minify counts!.
+
+
+***There is still margin for improvement.***
+
 
